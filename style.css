@@ -226,6 +226,7 @@ ul {
     padding: 12px 0px 12px 20px;
     width: 100%;
     color: hsl(0, 0%, 75%);
+    margin-bottom: 6px;
 }
 
 .form__btn2 {
