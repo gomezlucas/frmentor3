@@ -341,6 +341,11 @@ ul {
         display: inline-block;
         padding-right: 23px;
     }
+
+    .second_header_info h1 {
+        margin-top: 8%;
+        font-size: 20px;}
+
     .first_footer_form {
         width: 100%;
         margin: 0 auto 0 auto;
