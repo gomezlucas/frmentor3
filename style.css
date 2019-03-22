@@ -319,6 +319,9 @@ ul {
 }
 
 @media (max-width: 730px) {
+    .lista__container a {
+        font-size: 15px;
+    }
     .main_header_info {
         align-self: center;
         text-align: center;
