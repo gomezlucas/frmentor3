@@ -338,6 +338,15 @@ ul {
     .main__header__img__hidden img {
         width: 90%;
     }
+    
+    .form__email {
+      width: 93%;
+    }
+    
+    .form__btn {
+        width:100%;
+    }
+    
     .lista li {
         display: inline-block;
         padding-right: 23px;
